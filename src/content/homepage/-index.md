@@ -2,10 +2,10 @@
 # Banner
 banner:
   title: |
-    Powering The Next
+    Professional, secure,
     <br/>
-    <mark>Generation of Intelligence</mark>
-  content: "Elevate your site’s visibility effortlessly with AI, where smart technology meets user-friendly SEO tools."
+    <mark> Trusted non-custodial PoS provider.</mark>
+  content: "Experience secure and low-cost Proof of Stake (PoS) services with us. Rely on us to safeguard your assets while ensuring your funds remain in your control."
   badge:
     enable: true
     label: 2M Users Worldwide
@@ -20,6 +20,6 @@ banner:
     link: "https://github.com/sitepins/powerai-astro"
   button_primary:
     enable: true
-    label: "Exchange"
+    label: "Exchange Crypto"
     link: "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
 ---
