@@ -2,9 +2,9 @@
 # Banner
 banner:
   title: |
-    Professional, secure,
+    Professional, Secure,
     <br/>
-    <mark> Trusted non-custodial PoS provider.</mark>
+    <mark> Trusted Non-Custodial PoS.</mark>
   content: "Experience secure and low-cost Proof of Stake (PoS) services with us. Rely on us to safeguard your assets while ensuring your funds remain in your control."
   badge:
     enable: true
@@ -20,6 +20,6 @@ banner:
     link: "https://github.com/sitepins/powerai-astro"
   button_primary:
     enable: true
-    label: "Exchange Crypto"
+    label: "Exchange"
     link: "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
 ---
