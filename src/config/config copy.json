@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Angsa.xyz | Trusted Blockchains Validator",
+    "title": "Power AI - A Free AI SaaS Website Template built with Astro",
     "base_url": "https://powerai-astro.pages.dev/",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "137",
     "logo_height": "46",
-    "logo_text": "ANGSA"
+    "logo_text": "Power AI"
   },
 
   "settings": {
@@ -26,12 +26,12 @@
     "footer_text": "Own traditional and AI search with a powerful platform",
     "mail": "john@example.com",
     "phone": "(+1) 123-346-7890",
-    "copyright": "Made by [ Rey] 2026 Angsa.xyz All Right Reserved(https://sitepins.com)"
+    "copyright": "Designed and Developed by [Sitepins - a Git-based CMS for Static Sites.](https://sitepins.com)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Start Staking",
+    "label": "Edit with Sitepins",
     "link": "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
   },
 
