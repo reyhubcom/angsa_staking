@@ -16,10 +16,10 @@ banner:
   image: "/images/banner.png"
   button_dark:
     enable: true
-    label: "GitHub Repository"
+    label: "Start Staking"
     link: "https://github.com/sitepins/powerai-astro"
   button_primary:
     enable: true
-    label: "Edit with Sitepins"
+    label: "Exchange"
     link: "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
 ---
