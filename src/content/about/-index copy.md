@@ -6,10 +6,10 @@ image: "/images/image-placeholder.png"
 draft: false
 page_header:
   title: |
-    Powering onchain yield 
+    We Manage Your Online
     <br/>
-    <mark> for institutions</mark>
-  subtitle: "Hundreds of institutions deploy, manage, and optimize capital across staking, DeFi, and RWAs seamlessly and securely through Kiln’s infrastructure."
+    <mark> Visibility & Digital Growth</mark>
+  subtitle: "Our team of experts is dedicated to monitoring and enhancing your online presence, ensuring that your reputation remains positive and trustworthy in the digital world."
   button_dark:
   badge: "About Us"
 who_we_are:
