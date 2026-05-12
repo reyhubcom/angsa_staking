@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "STAKING ! | Trusted Blockchains Validator",
+    "base_url": "https://angsa.xyz",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "137",
+    "logo_height": "46",
+    "logo_text": "Angsa.xyz"
+  },
+
+  "settings": {
+    "sticky_header": true,
+    "pagination": 9,
+    "summary_length": 200,
+    "blog_folder": "blog",
+    "case_studies_folder": "case-studies",
+    "career_folder": "careers"
+  },
+  "params": {
+    "contact_form_action": "#",
+    "apply_form_action": "#",
+    "newsletter_form_action": "#",
+    "footer_text": "Professional blockchain validation services across multiple networks. Supporting decentralization through independent validator operations.",
+    "mail": "",
+    "phone": "",
+    "copyright": "Made by [ Rey ] 2026 Angsa.xyz All Right Reserved"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Start Staking",
+    "link": "https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro"
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "metadata": {
+    "meta_author": "Sitepins",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes."
+  }
+}
