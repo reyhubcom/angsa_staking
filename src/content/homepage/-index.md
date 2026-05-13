@@ -8,7 +8,7 @@ banner:
   content: "Experience secure and low-cost Proof of Stake (PoS) services with us. Rely on us to safeguard your assets while ensuring your funds remain in your control."
   badge:
     enable: true
-    label: Multiple Networks
+    label: Get Started-it's Free
     images:
       - "/images/avatars/avatar-1.jpg"
       - "/images/avatars/avatar-2.jpg"
