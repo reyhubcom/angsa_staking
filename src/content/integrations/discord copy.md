@@ -9,11 +9,11 @@ icon: "/images/integrations/Discord.svg"
 page_header:
   badge: "Integration Details"
   title: |
-    Ethereum
+    Discord
   subtitle: Automate image generation in your n8n workflows with PowerAI
   button_primary:
     enable: true
-    label: "Stake Now"
+    label: "Connect"
     link: "/contact"
 ---
 
