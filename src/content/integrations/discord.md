@@ -17,11 +17,12 @@ page_header:
     link: "/contact"
 ---
 
-## Overview
+## What is Ethereum?
 
-The Discord integration allows you to seamlessly connect PowerAI with your Discord servers, enabling automated image generation and content creation directly within your community channels. This powerful integration streamlines your workflow by bringing AI-powered capabilities to where your team and community already collaborate.
+Ethereum is a decentralized blockchain network; its native token or cryptocurrency is called Ether or ETH. Launched in 2015, it is now the world's second-largest blockchain platform by market capitalization after Bitcoin and it is the first to introduce smart contract functionality.
+On Ethereum, you can build a range of decentralized applications. As said by the nonprofit Ethereum Foundation: “Ethereum can be used to codify, decentralize, secure and trade just about anything.”
 
-## Key Features
+## What is staking?
 
 - **Automated Image Generation**: Generate stunning images on-demand using AI prompts directly in Discord channels
 - **Real-time Processing**: Fast response times with high-quality output delivered instantly to your server
