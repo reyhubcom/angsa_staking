@@ -5,7 +5,7 @@ subtitle: Find answers to common questions about Inno and our services.
 badge: Frequently Asked Questions
 
 faq_list:
-  - question: What is the Staking?
+  - question: What is the purpose of this platform?
     answer: Our platform is designed to provide users with comprehensive tools and resources to enhance their productivity and collaboration.
 
   - question: How can I create an account?
