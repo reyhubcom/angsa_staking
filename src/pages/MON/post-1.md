@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/blog/blog-1.png"
 category: "Technology"
 author:
-  name: "Gmonads"
+  name: "John Doe"
   designation: "Software Engineer"
   avatar: "/images/avatar.png"
 featured: true

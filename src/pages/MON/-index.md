@@ -1,7 +1,7 @@
 ---
-title: "Monad Network"
+title: "TEST"
 meta_title: ""
-description: "Monad Staking."
+description: "A collection of articles and insights on AI, machine learning, and data science. Explore our latest blog posts to stay updated on industry trends, best practices, and innovative solutions."
 image: ""
 draft: false
 ---
