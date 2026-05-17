@@ -23,7 +23,7 @@
           [
             {
               "name": "Bitcoin Staking",
-              "url": "/BTC/BTC.1",
+              "url": "/BTC",
               "description": "Networks Providers",
               "icon": "HiOutlineTag"
             },
