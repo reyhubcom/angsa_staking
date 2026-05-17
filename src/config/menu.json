@@ -23,7 +23,7 @@
           [
             {
               "name": "Staking",
-              "url": "/networks",
+              "url": "/home/networks",
               "description": "Networks Providers",
               "icon": "HiOutlineTag"
             },
