@@ -18,7 +18,7 @@ banner:
   button_dark:
     enable: true
     label: "Start Staking"
-    link: "https://github.com/sitepins/powerai-astro"
+    link: "/MON"
   button_primary:
     enable: true
     label: "Exchange"
