@@ -16,10 +16,10 @@ who_we_are:
   title: We are Pioneering the Future of Al Search Revolution
   badge: "Who We Are"
   subtitle: |
-    We deliver innovative tools and expert support to help individuals and businesses achieve financial goals and long-term success.
+   Angsa.xyz is a trusted provider of non-custodial staking services for Proof-of-Stake (PoS) blockchains. Our team has extensive experience running full nodes, validator nodes, and RPC nodes, dating back to 2018, giving us a deep understanding of the technical requirements for successful staking. We prioritize security and user control, ensuring that your funds are always under your control and that you never have to worry about losing access to your crypto.
       <br/>
       <br/>
-    PowerAI brings transparency to the black box of Al search, helping businesses understand and optimize how they appear in Al-generated recommendations across the entire buying journey that matters.
+    At Angsa.xyz, we believe in the principle of “not your keys, not your crypto,” meaning that your assets should always remain in your control. That’s why we offer a range of staking options for multiple blockchains, including some of the leading ecosystems such as Polygon, Polkadot, Near, Harmony One, and more. Our non-custodial delegation service makes it easy for anyone to participate in the exciting world of PoS consensus, earn rewards, and be a part of the future of decentralized finance.
   image: "/images/about-banner.png"
 what_our_goals:
   badge: "What Our Goals"
