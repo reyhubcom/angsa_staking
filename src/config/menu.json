@@ -22,8 +22,8 @@
         "mega_menu_groups": [
           [
             {
-              "name": "Staking",
-              "url": "/home/networks",
+              "name": "Bitcoin Staking",
+              "url": "/BTC",
               "description": "Networks Providers",
               "icon": "HiOutlineTag"
             },
