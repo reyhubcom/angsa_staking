@@ -23,8 +23,8 @@
           [
             {
               "name": "Staking",
-              "url": "/pricing",
-              "description": "View our pricing plans",
+              "url": "/networks",
+              "description": "Networks Providers",
               "icon": "HiOutlineTag"
             },
             {
