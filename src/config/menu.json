@@ -43,13 +43,13 @@
           [
             {
               "name": "Stake [ MON ]",
-              "url": "/mon",
+              "url": "/blog",
               "description": "Read our latest articles",
               "icon": "HiOutlinePencil"
             },
             {
-              "name": "Case Study",
-              "url": "/case-studies",
+              "name": "Stake [ SOL ]",
+              "url": "/blog",
               "description": "See success stories",
               "icon": "HiOutlineChartBar"
             },
